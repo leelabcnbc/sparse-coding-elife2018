@@ -1,5 +1,7 @@
 # sparse-coding-elife2018
 
+<https://doi.org/10.7554/eLife.33370>
+
 ## Figure 3 and its supplement
 
 See [`decoding/fig3.ipynb`](./decoding/fig3.ipynb) and [`decoding/fig3s.ipynb`](./decoding/fig3s.ipynb).
